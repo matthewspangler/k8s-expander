@@ -1,0 +1,6 @@
+name: "k8s-shortcuts"
+title: "Kubernetes Shortcuts"
+description: 
+version: 0.1.0
+author: Matthew Spangler
+tags: ["linux", "k8s", "kubernetes", "cli", "shell"]
