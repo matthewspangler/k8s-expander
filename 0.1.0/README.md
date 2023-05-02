@@ -1,1 +1,0 @@
-This Espanso package contains useful aliases for Kubernetes commands.
